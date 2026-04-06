@@ -7,7 +7,6 @@
   },
   "server": {
     "ip": "lifestealserver0.aternos.me:25499",
-
     "port": 25499,
     "version": "1.21.8",
     "try-creative": false
